@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "name": "maxProduct",
+  "repository": "https://github.com/luisramos0/maxProduct",
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "chai": "^2.5.1"
+  }
+}
